@@ -14,3 +14,6 @@ body{
 .half-width img{
     width: 100%;
 }
+.size{
+    font-size: 30px;
+}
