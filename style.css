@@ -1,10 +1,10 @@
 body{
     font-size: 40px;
-    font-family: 'Bebas Neue', cursive;
+    font-family: sans-serif;
     margin: 0%;
 }
 .name-highlight{
-    color: orange;
+    color: yellow;
 }
 .half-width{
     width: 40%;
@@ -24,4 +24,13 @@ body{
 }
 section{
     height: 500px;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient( orange, yellow);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-family: bold;
+
 }
