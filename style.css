@@ -1,6 +1,7 @@
 body{
     font-size: 40px;
     font-family: 'Bebas Neue', cursive;
+    margin: 0%;
 }
 .name-highlight{
     color: orange;
@@ -16,4 +17,11 @@ body{
 }
 .size{
     font-size: 30px;
+}
+.top-banner{
+    background-repeat: no-repeat;
+    background-image: url(images/website-banner.jpg.jpg);
+}
+section{
+    height: 500px;
 }
